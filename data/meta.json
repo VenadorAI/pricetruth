@@ -1,0 +1,33 @@
+{
+ "built_at": "2026-08-15",
+ "n_products": 53,
+ "n_observations": 367,
+ "snapshots": [
+  "2026-05-18",
+  "2026-05-25",
+  "2026-06-01",
+  "2026-06-08",
+  "2026-06-14",
+  "2026-06-19",
+  "2026-06-24",
+  "2026-06-29",
+  "2026-07-04",
+  "2026-07-09",
+  "2026-07-13",
+  "2026-07-16",
+  "2026-07-20",
+  "2026-07-24",
+  "2026-07-29",
+  "2026-08-01",
+  "2026-08-05",
+  "2026-08-08",
+  "2026-08-12",
+  "2026-08-15"
+ ],
+ "sources": [
+  "Checkjebon open data (MIT) — github.com/supermarkt/checkjebon (daily supermarkets.json; 20 snapshots 18 May–15 Aug 2026)",
+  "ah.nl product pages, read on 15 Aug 2026 (47 items)",
+  "action.com category pages, read on 15 Aug 2026",
+  "Kruidvat/Etos weekly-flyer offers via folderz.nl, read on 15 Aug 2026"
+ ]
+}
