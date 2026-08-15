@@ -28,23 +28,26 @@ export default function Page() {
           <li>{nProductsFresh} products have at least one fresh observation with a unit price.</li>
           <li>History: {meta.snapshots.length} snapshots of the open supermarket dataset ({meta.snapshots[0]} to {meta.snapshots[meta.snapshots.length - 1]}).</li>
         </ul>
-        <table className="mt-3 w-full text-sm">
-          <thead className="text-left text-xs uppercase tracking-wide text-slate-500">
-            <tr><th className="py-1">Chain</th><th>Source</th><th className="text-right">Obs.</th><th className="text-right">with promo</th><th>Last change</th><th>Status</th></tr>
-          </thead>
-          <tbody>
-            {byChain.map(({ c, n, promos }) => (
-              <tr key={c.id} className="border-t border-slate-100">
-                <td className="py-1.5"><ChainBadge id={c.id} /> <span className="ml-1">{c.name}</span></td>
-                <td className="text-xs text-slate-600">{c.source}{c.note ? ` — ${c.note}` : ""}</td>
-                <td className="text-right">{n}</td>
-                <td className="text-right">{promos}</td>
-                <td className="text-xs">{c.last_change ?? "–"}</td>
-                <td className="text-xs">{!n ? <span className="rounded bg-slate-100 px-1.5 py-0.5">no data — scout needed</span> : c.stale ? <span className="rounded bg-rose-100 px-1.5 py-0.5 text-rose-800">stale</span> : <span className="rounded bg-emerald-100 px-1.5 py-0.5 text-emerald-800">fresh</span>}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <div className="-mx-4 mt-3 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+          <table className="w-full min-w-[640px] text-sm">
+            <thead className="text-left text-xs uppercase tracking-wide text-slate-500">
+              <tr><th className="py-1">Chain</th><th>Source</th><th className="text-right">Obs.</th><th className="text-right">with promo</th><th className="whitespace-nowrap px-2">Last change</th><th>Status</th></tr>
+            </thead>
+            <tbody>
+              {byChain.map(({ c, n, promos }) => (
+                <tr key={c.id} className="border-t border-slate-100 align-top">
+                  <td className="whitespace-nowrap py-1.5 pr-2"><ChainBadge id={c.id} /> <span className="ml-1">{c.name}</span></td>
+                  <td className="pr-2 text-xs text-slate-600">{c.source}{c.note ? ` — ${c.note}` : ""}</td>
+                  <td className="text-right">{n}</td>
+                  <td className="text-right">{promos}</td>
+                  <td className="whitespace-nowrap px-2 text-xs">{c.last_change ?? "–"}</td>
+                  <td className="whitespace-nowrap text-xs">{!n ? <span className="rounded bg-slate-100 px-1.5 py-0.5">no data — scout needed</span> : c.stale ? <span className="rounded bg-rose-100 px-1.5 py-0.5 text-rose-800">stale</span> : <span className="rounded bg-emerald-100 px-1.5 py-0.5 text-emerald-800">fresh</span>}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p className="mt-1 text-xs text-slate-400 sm:hidden">Swipe the table sideways to see all columns.</p>
       </section>
 
       <section className="card space-y-2 text-sm text-slate-700">
