@@ -1,0 +1,54 @@
+product_id,brand,product,category,compare_unit,ean (fill in),chains_with_data
+nivea-fresh-natural-deo,NIVEA,Fresh Natural deodorant spray,personal care,per liter,,action;ah;dekamarkt;dirk;etos;kruidvat;plus;spar
+nivea-men-dry-impact-deo,NIVEA MEN,Men Dry Impact anti-perspirant spray,personal care,per liter,,action;ah;dekamarkt;dirk;jumbo;kruidvat;plus;spar
+dove-original-deo,Dove,Original / Advanced Care Original deodorant spray,personal care,per liter,,ah;dekamarkt;dirk;hoogvliet;jumbo;kruidvat;lidl;plus;spar
+axe-africa-bodyspray,Axe,Africa deodorant body spray,personal care,per liter,,ah;jumbo;kruidvat;lidl;plus;spar
+rexona-men-cobalt-deo,Rexona,Men Cobalt Dry anti-perspirant spray,personal care,per liter,,ah;dekamarkt;hoogvliet;plus
+sanex-sensitive-deo,Sanex,Dermo/Derma Sensitive deodorant spray,personal care,per liter,,action;ah;hoogvliet;jumbo;plus
+dove-men-clean-comfort-douche,Dove Men+Care,Clean Comfort shower gel,personal care,per liter,,ah;dekamarkt;dirk;hoogvliet;kruidvat
+palmolive-naturals-amandel-douche,Palmolive,Naturals almond shower gel / cream,personal care,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+palmolive-amandel-handzeep,Palmolive,Naturals almond hand soap (pump),personal care,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+andrelon-classic-iedere-dag,Andrélon,Classic Every Day shampoo,personal care,per liter,,ah;dekamarkt;dirk;etos;hoogvliet;jumbo;kruidvat;plus;spar
+head-shoulders-classic,Head & Shoulders,Classic anti-dandruff shampoo,personal care,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+elvive-color-vive-shampoo,L'Oréal Elvive,Color-Vive shampoo,personal care,per liter,,action;ah;dekamarkt;hoogvliet;jumbo;plus
+fructis-shampoo,Garnier Fructis,Fructis shampoo (Damage Repair etc.),personal care,per liter,,action;kruidvat
+colgate-caries-protection,Colgate,Caries/Cavity Protection toothpaste,personal care,per liter,,action;ah;dekamarkt;dirk;etos;hoogvliet;jumbo;plus;spar
+oralb-3d-white-arctic-fresh,Oral-B,3D White Arctic Fresh toothpaste,personal care,per liter,,action;ah;dekamarkt;dirk;etos;jumbo
+sensodyne-fresh-mint,Sensodyne,Fresh Mint toothpaste,personal care,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+listerine-cool-mint,Listerine,Cool Mint mouthwash,personal care,per liter,,action;ah;dekamarkt;etos;hoogvliet;jumbo;lidl;plus
+gillette-blue3-wegwerp,Gillette,Blue3 disposable razors,personal care,per unit,,action;ah;jumbo;lidl;spar
+always-ultra-normal,Always,Ultra sanitary pads Normal (with wings),personal care,per unit,,ah;dekamarkt;hoogvliet;jumbo;plus
+always-dailies-normal,Always,Dailies panty liners Normal,personal care,per unit,,action;ah
+ariel-4in1-pods,Ariel,4-in-1 pods (color / ultra),household,per wash,,action;ah;dirk;etos;jumbo;plus;spar
+ariel-3in1-pods-color,Ariel,3-in-1 pods Color,household,per wash,,action;ah;dirk;jumbo;lidl;plus
+ariel-vloeibaar-color,Ariel,Liquid detergent Color,household,per wash,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+omo-vloeibaar-kleur,Omo,Liquid detergent Color,household,per wash,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl
+robijn-klein-krachtig-color,Robijn,Klein & Krachtig / Color liquid detergent,household,per wash,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+robijn-wasverzachter,Robijn,Fabric softener (Rosé Chique / Zwitsal / Morgenfris),household,per wash,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+vanish-oxi-gel,Vanish,Oxi Action stain remover gel (colours),household,per liter,,action;ah;hoogvliet;jumbo;plus
+dreft-afwasmiddel-original,Dreft,Dish soap Original / Max Power Original,household,per liter,,action;ah;dekamarkt;dirk;hoogvliet;plus;spar
+dreft-platinum-vaatwastabs,Dreft,Platinum dishwasher tablets (all-in-one),household,per unit,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus
+finish-quantum-vaatwastabs,Finish,Quantum / All in 1 dishwasher tablets,household,per unit,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus
+antikal-kalkreiniger,Antikal,Limescale cleaner (spray / gel),household,per liter,,action;ah;hoogvliet;jumbo;lidl;plus;spar
+wc-eend-fresh-discs,WC-Eend,Fresh Discs holder / starter kit,household,per unit,,action;ah;dekamarkt;dirk
+page-toiletpapier,Page,Toilet paper (Original / Kussenzacht / Betrouwbaar Schoon),household,per roll,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+edet-soft-toiletpapier,Edet,Soft toilet paper,household,per roll,,action;ah;jumbo;lidl
+page-vochtig-toiletpapier,Page,Moist toilet paper (aloe vera / flushable),household,per unit,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;plus
+coca-cola-original,Coca-Cola,Original Taste (compared per liter),food & drinks,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+coca-cola-zero,Coca-Cola,Zero Sugar (compared per liter),food & drinks,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+fanta-orange,Fanta,Orange (compared per liter),food & drinks,per liter,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+red-bull-250,Red Bull,Energy Drink 250 ml (per can),food & drinks,per unit,,action;ah;dekamarkt;dirk;hoogvliet;lidl;plus;spar
+monster-energy-500,Monster,Energy 500 ml (per can),food & drinks,per unit,,action;jumbo;lidl;spar
+doritos-nacho-cheese,Doritos,Nacho Cheese,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+pringles-original,Pringles,Original,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+lays-naturel,Lay's,Salted (Naturel) crisps,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+haribo-goudberen,Haribo,Goldbears,food & drinks,per kg,,hoogvliet;jumbo;lidl;plus
+douwe-egberts-aroma-rood-500,Douwe Egberts,Aroma Rood ground coffee 500 g,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+nutella-hazelnootpasta,Nutella,Hazelnut spread,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+calve-pindakaas-350,Calvé,Peanut butter (regular) 350 g,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+heinz-tomato-ketchup,Heinz,Tomato Ketchup (per liter),food & drinks,per liter,,ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;plus;spar
+fernandes-cherry-bouquet,Fernandes,Cherry Bouquet (per liter),food & drinks,per liter,,action;ah;dekamarkt;dirk;hoogvliet;jumbo;lidl;spar
+dr-pepper-vanilla-float,Dr Pepper,Vanilla Float 330 ml,food & drinks,per liter,,action;ah;dekamarkt;jumbo;lidl;spar
+kelloggs-cornflakes,Kellogg's,Corn Flakes,food & drinks,per kg,,ah;dekamarkt;dirk;hoogvliet;jumbo;plus;spar
+cup-a-soup-tomaat,Knorr / Unox,Cup-a-Soup tomato 3-pack,food & drinks,per unit,,ah;dekamarkt;dirk;hoogvliet;lidl;plus
+bifi-original,Bifi,Original sausages (multipack),food & drinks,per unit,,action;ah;dirk;hoogvliet;lidl;plus
